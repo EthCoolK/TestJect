@@ -10,7 +10,8 @@
 
 <div align="center">
     <h1>Explanation</h1>
-    Hyper AutoClicker does this by using the native windows api\n
+    Hyper AutoClicker does this by using the native windows api
+    <br />
     It is made in golang this has gui unlike some that are CLI
 </div>
 
