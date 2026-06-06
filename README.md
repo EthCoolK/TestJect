@@ -2,5 +2,5 @@
 
 
 <div>
-    <font size="6"><strong>lorem ipsum</strong></font>
+    <font size="20"><strong>lorem ipsum</strong></font>
 </div>
