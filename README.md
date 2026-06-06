@@ -2,5 +2,5 @@
 
 
 <div>
-     <strong>lorem ipsum</strong>
+     <blockquote><strong>lorem ipsum</strong></blockquote>
 </div>
