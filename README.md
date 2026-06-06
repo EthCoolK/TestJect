@@ -5,6 +5,7 @@
 <div>
     Hyper AutoClicker lets you input amount of cps to click and it can do immediately with a press of a button
     <br />
+    <br />
     Made in golang
 </div>
 
