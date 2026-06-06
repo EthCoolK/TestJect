@@ -1,7 +1,6 @@
 <img width="400" height="400" alt="Logo" src="https://github.com/user-attachments/assets/1dba4cf1-2e97-4af3-b0dc-a941137e9593" align="left" />
 
 <div style="overflow: hidden; padding-left: 40px;">
-    <h2>Your Project Title</h2>
     <p>lorem ipsum dolor sit amet.</p>
 </div>
 
