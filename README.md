@@ -8,4 +8,9 @@
 
 <br clear="left" />
 
+<div align="center">
+    <h1>Explanation</h1>
+</div>
+
+
 <img width="800" height="400" alt="New Image Below" src="path/to/your/second-image.png" />
